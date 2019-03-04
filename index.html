@@ -1,14 +1,60 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>puns.dev - The Worst Computer Puns on the Internet</title>
-  </head>
-  <body>
-    <div id="app">
-      {{ message }}
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135451625-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-135451625-1');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="A curated selection of the worst computer puns from around the Internet">
+  <meta name="keywords" content="bad puns, puns, computer puns, bad computer puns, top puns, best puns, dad jokes, bad jokes, best dad jokes, top dad jokes, puns list">
+  <meta name="author" content="Alex Lakatos">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+  <!-- Facebook  -->
+  <meta property="og:title" content="puns.dev - The Worst Computer Puns on the Internet">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://puns.dev/">
+  <meta property="og:image" content="https://puns.dev/assets/share.png">
+  <meta property="og:description" content="A curated selection of the worst computer puns from around the Internet">
+
+  <!-- Twitter  -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="https://puns.dev/">
+  <meta name="twitter:title" content="puns.dev - The Worst Computer Puns on the Internet">
+  <meta name="twitter:description" content="A curated selection of the worst computer puns from around the Internet">
+  <meta name="twitter:image" content="https://puns.dev/assets/share.png">
+  <meta name="twitter:site" content="https://puns.dev/" />
+  <meta name="twitter:creator" content="@lakatos88" />
+
+  <title>puns.dev - The Worst Computer Puns on the Internet</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+  <div id="app" v-bind:class="[ 'noselect', wrapperClass, fontFamily ]" v-on:click.stop.prevent="newPun">
+    <div class="pun">
+      <p v-if="pun">{{ pun.pun }}</p>
+      <p v-if="pun">{{ pun.punchline }}</p>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-    <script src="/assets/js/app.js"></script>
-  </body>
+    <div class="footer">
+      <p class="hide-mobile" v-on:click.stop.prevent="openGitHub"><a rel="external" href="https://github.com/AlexLakatos/computer-puns">Contribute on GitHub</a></p>
+      <p>Click for more</p>
+      <p v-on:click.stop.prevent="openTwitter">Made with ❤️ by <a rel="external" href="https://twitter.com/lakatos88">Laka</a></p>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script src="/assets/js/app.js"></script>
+</body>
+
 </html>

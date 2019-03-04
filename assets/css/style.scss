@@ -1,0 +1,276 @@
+---
+---
+
+$zx-1: #000000;
+$zx-2: #3c351f;
+$zx-3: #313390;
+$zx-4: #1559db;
+$zx-5: #a73211;
+$zx-6: #d85525;
+$zx-7: #a15589;
+$zx-8: #cd7a50;
+$zx-9: #629a31;
+$zx-10: #9cd33c;
+$zx-11: #28a4cb;
+$zx-12: #65dcd6;
+$zx-13: #e8bc50;
+$zx-14: #f1e782;
+$zx-15: #bfbfbd;
+$zx-16: #f2f1ed;
+
+$ff-1: 'Ubuntu Mono';
+$ff-2: 'Share Tech Mono';
+$ff-3: 'VT323';
+$ff-4: 'PT Mono';
+$ff-5: 'Cutive Mono';
+$ff-6: 'Oxygen Mono';
+
+/* ubuntu-mono-regular - latin */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu Mono'), local('UbuntuMono-Regular'),
+       url('../fonts/ubuntu-mono-v8-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/ubuntu-mono-v8-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* share-tech-mono-regular - latin */
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech Mono'), local('ShareTechMono-Regular'),
+       url('../fonts/share-tech-mono-v8-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/share-tech-mono-v8-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* vt323-regular - latin */
+@font-face {
+  font-family: 'VT323';
+  font-style: normal;
+  font-weight: 400;
+  src: local('VT323 Regular'), local('VT323-Regular'),
+       url('../fonts/vt323-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/vt323-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* pt-mono-regular - latin */
+@font-face {
+  font-family: 'PT Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Mono'), local('PTMono-Regular'),
+       url('../fonts/pt-mono-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-mono-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* cutive-mono-regular - latin */
+@font-face {
+  font-family: 'Cutive Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cutive Mono Regular'), local('CutiveMono-Regular'),
+       url('../fonts/cutive-mono-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/cutive-mono-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* oxygen-mono-regular - latin */
+@font-face {
+  font-family: 'Oxygen Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oxygen Mono'), local('OxygenMono-Regular'),
+       url('../fonts/oxygen-mono-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/oxygen-mono-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+.zx-1 {
+    background-color: $zx-1;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+
+.zx-2 {
+    background-color: $zx-3;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+
+.zx-3 {
+    background-color: $zx-3;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+
+.zx-4 {
+    background-color: $zx-4;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+.zx-5 {
+    background-color: $zx-5;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+
+.zx-6 {
+    background-color: $zx-6;
+    color: $zx-16;
+    text-shadow: #{$zx-15}4d 5px 3px;
+}
+
+.zx-7 {
+    background-color: $zx-7;
+    color: $zx-2;
+    text-shadow: #{$zx-1}4d 5px 3px;
+}
+.zx-8 {
+    background-color: $zx-8;
+    color: $zx-2;
+    text-shadow: #{$zx-1}4d 5px 3px;
+}
+
+.zx-9 {
+    background-color: $zx-9;
+    color: $zx-2;
+    text-shadow: #{$zx-1}4d 5px 3px;
+}
+
+.zx-10 {
+    background-color: $zx-10;
+    color: $zx-2;
+    text-shadow: #{$zx-1}4d 5px 3px;
+}
+.zx-11 {
+    background-color: $zx-11;
+    color: $zx-2;
+    text-shadow: #{$zx-1}4d 5px 3px;
+}
+
+.zx-12 {
+    background-color: $zx-12;
+    color: $zx-1;
+    text-shadow: #{$zx-2}4d 5px 3px;
+}
+
+.zx-13 {
+    background-color: $zx-13;
+    color: $zx-1;
+    text-shadow: #{$zx-2}4d 5px 3px;
+}
+
+.zx-14 {
+    background-color: $zx-14;
+    color: $zx-1;
+    text-shadow: #{$zx-2}4d 5px 3px;
+}
+
+.zx-15 {
+    background-color: $zx-15;
+    color: $zx-1;
+    text-shadow: #{$zx-2}4d 5px 3px;
+}
+
+.zx-16 {
+    background-color: $zx-16;
+    color: $zx-1;
+    text-shadow: #{$zx-2}4d 5px 3px;
+}
+
+.ff-1 {
+  font-family: $ff-1;
+}
+
+.ff-2 {
+  font-family: $ff-2;
+}
+
+.ff-3 {
+  font-family: $ff-3;
+}
+
+.ff-4 {
+  font-family: $ff-4;
+}
+
+.ff-5 {
+  font-family: $ff-5;
+}
+
+.ff-6 {
+  font-family: $ff-6;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+body, html {
+  height: 100%;
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  font-size: 60px;
+  letter-spacing: 1px;
+  border-top: 20px solid $zx-1;
+  border-right: 20px solid $zx-1;
+  border-left: 20px solid $zx-1;
+  display: grid;
+}
+
+.pun {
+  margin: auto;
+  padding: 30px;
+}
+
+.pun p {
+	margin: 0;
+	padding-bottom: 40px;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto;
+  background-color: $zx-1;
+  color: $zx-16;
+  font-family: $ff-3;
+  font-size: 12px;
+  line-height: 20px;
+  height: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+  a {
+    color: $zx-15;
+  }
+
+  p {
+    margin: 0;
+    cursor: pointer;
+  }
+}
+
+@media only screen
+  and (max-device-width: 321px) {
+    #app {
+      font-size: 30px;
+    }
+    .footer {
+      .hide-mobile {
+        display: none;
+      }
+    }
+}
