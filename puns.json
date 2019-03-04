@@ -12,7 +12,7 @@
   },
   {
     "pun": "Q: Why did the computer spy quit?",
-    "punchline": "A: He couldn’t hack it anymore!"
+    "punchline": "A: She couldn’t hack it anymore!"
   },
   {
     "pun": "Q: What did the motherboard say to the new software?",
@@ -24,7 +24,7 @@
   },
   {
     "pun": "Q: Why was the computer geek disappointed by the zoo?",
-    "punchline": "A: He couldn’t find any RAM!"
+    "punchline": "A: They couldn’t find any RAM!"
   },
   {
     "pun": "Q: Which way did the computer programmer go?",
@@ -49,6 +49,10 @@
   {
     "pun": "Q: What do you say when a JavaScript interview went bad?",
     "punchline": "A: Don’t call us, we'll callback you. We promise!"
+  },
+  {
+    "pun": "Q: Why did the computer programmer drown?",
+    "punchline": "A: They couldn't figure out whether to float left or right!"
   },
   {
     "pun": "Q: How do you comfort a JavaScript bug?",
