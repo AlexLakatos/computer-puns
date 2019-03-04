@@ -3,7 +3,7 @@
     "punchline": "A: None. It's a hardware problem."
   },
   {
-    "pun": "Q: What does a proud computer call his little son?",
+    "pun": "Q: What does a proud computer call its little son?",
     "punchline": "A: A microchip off the old block."
   },
   {
@@ -12,7 +12,7 @@
   },
   {
     "pun": "Q: Why did the computer spy quit?",
-    "punchline": "A: He couldn’t hack it anymore!"
+    "punchline": "A: They couldn’t hack it anymore!"
   },
   {
     "pun": "Q: What did the motherboard say to the new software?",
@@ -24,11 +24,11 @@
   },
   {
     "pun": "Q: Why was the computer geek disappointed by the zoo?",
-    "punchline": "A: He couldn’t find any RAM!"
+    "punchline": "A: They couldn’t find any RAM!"
   },
   {
     "pun": "Q: Which way did the computer programmer go?",
-    "punchline": "A: He went data way!"
+    "punchline": "A: They went data way!"
   },
   {
     "pun": "Q: What do you get when you cross a computer with a hamburger?",
@@ -36,7 +36,7 @@
   },
   {
     "pun": "Q: How do you find a spider on the internet?",
-    "punchline": "A: Check out his web site!"
+    "punchline": "A: Check out its web site!"
   },
   {
     "pun": "Q: How did the computer catch a cold?",
@@ -49,6 +49,10 @@
   {
     "pun": "Q: What do you say when a JavaScript interview went bad?",
     "punchline": "A: Don’t call us, we'll callback you. We promise!"
+  },
+  {
+    "pun": "Q: Why did the computer programmer drown?",
+    "punchline": "A: They couldn't figure out whether to float left or right!"
   },
   {
     "pun": "Q: How do you comfort a JavaScript bug?",
