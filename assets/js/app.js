@@ -31,7 +31,7 @@ var app = new Vue({
   methods: {
     newPun: function() {
       this.randomPun = this.randomPun + 1;
-      if (this.randomPun === this.puns.length) {
+      if (this.randomPun >= this.puns.length) {
         this.randomPun = 0
       }
       this.pun = this.puns[this.randomPun]
