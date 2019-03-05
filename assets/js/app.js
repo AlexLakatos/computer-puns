@@ -9,6 +9,10 @@ var app = new Vue({
       type: String,
       default: 'ff-3'
     },
+    randomPun: {
+      type: Number,
+      default: 0
+    }
   },
   data() {
     return {
@@ -20,12 +24,17 @@ var app = new Vue({
     fetch('/puns.json').then(response => response.json())
       .then(puns => {
         this.puns = puns;
-        this.pun = this.puns[getRandomInt(this.puns.length)]
+        this.randomPun = getRandomInt(this.puns.length);
+        this.pun = this.puns[this.randomPun]
       });
   },
   methods: {
     newPun: function() {
-      this.pun = this.puns[getRandomInt(this.puns.length)]
+      this.randomPun = this.randomPun + 1;
+      if (this.randomPun === this.puns.length) {
+        this.randomPun = 0
+      }
+      this.pun = this.puns[this.randomPun]
       this.wrapperClass = "zx-" + (getRandomInt(16) + 1).toString();
       this.fontFamily = "ff-" + (getRandomInt(6) + 1).toString();
     },
