@@ -74,5 +74,9 @@
   {
      "pun": "Q: Do you know the band 1023 megabytes?",
      "punchline": "A: They haven’t had a gig yet!"
+  },
+  {
+     "pun": "Q: Why was the database admin kicked out of the bar?",
+     "punchline": "A: They kept joining the tables."
   }
 ]
