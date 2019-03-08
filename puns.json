@@ -74,5 +74,9 @@
   {
      "pun": "Q: Do you know the band 1023 megabytes?",
      "punchline": "A: They haven’t had a gig yet!"
+  },
+  {
+    "pun": "Q: Why did the JavaScript developer lose their job?",
+    "punchline": "A: They couldn't keep their Promises!"
   }
 ]
