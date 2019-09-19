@@ -10,11 +10,16 @@ exports.random = () => {
 };
 
 exports.get = (id) => {
-  if (isNaN(id)) {
-    throw `${id} is not a number!`;
-  } else {
-    if (id < 0 || id >= puns.length) throw `${id} is not in the 0 - ${puns.length - 1} range!`;
+  if (id !== undefined) {
+    if (isNaN(id)) {
+      throw `${id} is not a number!`;
+    } else {
+      if (id < 0 || id >= puns.length) throw `${id} is not in the 0 - ${puns.length - 1} range!`;
 
-    return puns[id];
+      return puns[id];
+    }
+  } else {
+    return this.random()
   }
+
 }

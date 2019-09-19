@@ -25,6 +25,10 @@ describe('puns', function() {
       assert.equal(puns.get(0).pun, "Q: How many programmers does it take to change a light bulb?");
     });
 
+    it('should return a random pun if no index is given', function() {
+      expect(puns.get().id).to.not.be.undefined;
+    });
+
     it('should throw for not a number ids', function() {
       expect(() => {
         puns.get("no");
