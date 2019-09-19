@@ -9,5 +9,8 @@ app.intent('actions.intent.MAIN', (conv) => {
 
 
 
-  callback(app);
+  callback(null, {
+    statusCode: 200,
+    body: app
+  });
 }
