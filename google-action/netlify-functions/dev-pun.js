@@ -1,6 +1,13 @@
 exports.handler = function(event, context, callback) {
-  callback(null, {
-    statusCode: 200,
-    body: "Hello, World"
-  });
+
+const {actionssdk} = require('actions-on-google');
+const app = actionssdk({debug: true});
+
+app.intent('actions.intent.MAIN', (conv) => {
+  conv.ask('Hi!');
+});
+
+
+
+  callback(app);
 }

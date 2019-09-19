@@ -1,25 +1,25 @@
 {
   "actions": [
     {
-      "description": "Default Welcome Intent",
+      "description": "Default Intent",
       "name": "MAIN",
       "fulfillment": {
-        "conversationName": "<INSERT YOUR CONVERSATION NAME HERE>"
+        "conversationName": "dev-pun"
       },
       "intent": {
         "name": "actions.intent.MAIN",
         "trigger": {
           "queryPatterns": [
-            "talk to <INSERT YOUR NAME HERE>"
+            "give me a dev pun"
           ]
         }
       }
     }
   ],
   "conversations": {
-    "<INSERT YOUR CONVERSATION NAME HERE>": {
-      "name": "<INSERT YOUR CONVERSATION NAME HERE>",
-      "url": "<INSERT YOUR FULLFILLMENT URL HERE>"
+    "dev-pun": {
+      "name": "dev-pun",
+      "url": "https://dev-puns.netlify.com/.netlify/functions/dev-pun"
     }
   },
   "locale": "en"
