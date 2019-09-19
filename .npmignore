@@ -1,0 +1,6 @@
+test
+CNAME
+node_modules
+.git
+.nyc_output
+coverage
