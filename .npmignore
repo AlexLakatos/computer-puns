@@ -5,3 +5,4 @@ node_modules
 .nyc_output
 coverage
 coverage.lcov
+.travis.yml 
