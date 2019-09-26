@@ -142,5 +142,9 @@
   {
     "pun": "Q: Why are Java programmers front yards so untidy?",
     "punchline": "A: Because they are always waiting on garbage collection!"
+  },
+  {
+    "pun": "Q: What do you call a Rails developer?",
+    "punchline": "A: A conductor!"
   }
 ]
