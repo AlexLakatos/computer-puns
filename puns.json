@@ -158,5 +158,17 @@
   {
     "pun": "Q: Why did the functions stop calling each other?",
     "punchline": "A: Because they had constant arguments!"
+  },
+  {
+    "pun":"Q: Whats the most cutting edge language?",
+    "punchline": "A: C#."
+  },
+  {
+    "pun":"Q: Why couldn't the programmer dance to the song?",
+    "punchline": "A: Because he didn't get the algo-rhythm!"
+  },
+  {
+    "pun":"Q: Why do universities hate java programmers?",
+    "punchline": "A: They're always starting public classes!"
   }
 ]
