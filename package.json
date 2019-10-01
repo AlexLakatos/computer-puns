@@ -1,51 +1,57 @@
 {
-  "name": "puns.dev",
-  "version": "0.1.1",
-  "description": "A hand-picked selection of the worst computer puns, really cringe worthy stuff.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha",
-    "coverage": "nyc --reporter=text-lcov > coverage.lcov npm run test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexLakatos/computer-puns.git"
-  },
-  "keywords": [
-    "bad",
-    "puns",
-    "puns",
-    "computer",
-    "puns",
-    "bad",
-    "computer",
-    "puns",
-    "top",
-    "puns",
-    "best",
-    "puns",
-    "dad",
-    "jokes",
-    "bad",
-    "jokes",
-    "best",
-    "dad",
-    "jokes",
-    "top",
-    "dad",
-    "jokes",
-    "puns",
-    "list"
-  ],
-  "author": "Alex Lakatos <https://twitter.com/lakatos88>",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/AlexLakatos/computer-puns/issues"
-  },
-  "homepage": "https://github.com/AlexLakatos/computer-puns#readme",
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.0",
-    "nyc": "^14.1.1"
-  }
+	"name": "puns.dev",
+	"version": "0.1.1",
+	"description": "A hand-picked selection of the worst computer puns, really cringe worthy stuff.",
+	"main": "index.js",
+	"bin": {
+		"puns.dev": "./bin.js"
+	},
+	"scripts": {
+		"test": "mocha",
+		"coverage": "nyc --reporter=text-lcov > coverage.lcov npm run test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AlexLakatos/computer-puns.git"
+	},
+	"keywords": [
+		"bad",
+		"puns",
+		"puns",
+		"computer",
+		"puns",
+		"bad",
+		"computer",
+		"puns",
+		"top",
+		"puns",
+		"best",
+		"puns",
+		"dad",
+		"jokes",
+		"bad",
+		"jokes",
+		"best",
+		"dad",
+		"jokes",
+		"top",
+		"dad",
+		"jokes",
+		"puns",
+		"list"
+	],
+	"author": "Alex Lakatos <https://twitter.com/lakatos88>",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/AlexLakatos/computer-puns/issues"
+	},
+	"homepage": "https://github.com/AlexLakatos/computer-puns#readme",
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^6.2.1",
+		"nyc": "^14.1.1"
+	},
+	"dependencies": {
+		"simple-arg-parser": "^1.2.0"
+	}
 }
