@@ -190,5 +190,9 @@
   {
     "pun": "Q: Why were the Javascript plumbers delayed?",
     "punchline": "A: Because they had to await async."
+  },
+  {
+    "pun": "Q: How do you generate a random string?",
+    "punchline": "Put a Windows user in front of vim, and tell them to exit!"
   }
 ]
