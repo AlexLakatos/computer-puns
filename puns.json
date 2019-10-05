@@ -72,12 +72,12 @@
     "punchline": "A: They cannot C#!"
   },
   {
-     "pun": "Q: Do you know the band 1023 megabytes?",
-     "punchline": "A: They haven’t had a gig yet!"
+    "pun": "Q: Do you know the band 1023 megabytes?",
+    "punchline": "A: They haven’t had a gig yet!"
   },
   {
-     "pun": "Q: Why was the database admin kicked out of the bar?",
-     "punchline": "A: They kept joining the tables."
+    "pun": "Q: Why was the database admin kicked out of the bar?",
+    "punchline": "A: They kept joining the tables."
   },
   {
     "pun": "Q: Why did the JavaScript developer lose their job?",
@@ -142,5 +142,61 @@
   {
     "pun": "Q: Why are Java programmers front yards so untidy?",
     "punchline": "A: Because they are always waiting on garbage collection!"
+  },
+  {
+    "pun": "Q: What do you call a Rails developer?",
+    "punchline": "A: A conductor!"
+  },
+  {
+    "pun": "Q: Where do naughty disk drives get sent?",
+    "punchline": "A: Boot camp!"
+  },
+  {
+    "pun": "Q: What do you call it when you have your mom's mom on speed dial?",
+    "punchline": "A: Instagram."
+  },
+  {
+    "pun": "Q: Why did the functions stop calling each other?",
+    "punchline": "A: Because they had constant arguments!"
+  },
+  {
+    "pun": "Q: Whats the most cutting edge language?",
+    "punchline": "A: C#."
+  },
+  {
+    "pun": "Q: Why couldn't the programmer dance to the song?",
+    "punchline": "A: Because they didn't get the algo-rhythm!"
+  },
+  {
+    "pun": "Q: Why do universities hate java programmers?",
+    "punchline": "A: They're always starting public classes!"
+  },
+  {
+    "pun": "Q: Why are programmers popular on the street?",
+    "punchline": "A: They'll write scripts for anything at the right price."
+  },
+  {
+    "pun": "Q: Why is everyone who works at the keyboard factory so rich?",
+    "punchline": "A: They put in a lot of shifts."
+  },
+  {
+    "pun": "Q: Why don't progammers like nature?",
+    "punchline": "A: Too many bugs."
+  },
+  {
+    "pun": "Q: How many bits of bait does a programmer need to go fishing?",
+    "punchline": "A: At least 8, or else the fish won't byte."
+  },
+  {
+    "pun": "Q: Why were the Javascript plumbers delayed?",
+    "punchline": "A: Because they had to await async."
+  },
+  {
+    "pun": "Q: Why was the IT engineer in the hospital?",
+    "punchline": "A: They touched the firewall!"
+  },
+  {
+    "pun": "Q: How do you generate a random string?",
+    "punchline": "Put a Windows user in front of vim, and tell them to exit!"
   }
 ]

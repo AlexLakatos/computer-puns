@@ -21,5 +21,4 @@ exports.get = (id) => {
   } else {
     return this.random()
   }
-
 }
