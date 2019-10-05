@@ -192,7 +192,11 @@
     "punchline": "A: Because they had to await async."
   },
   {
-    "pun": "Q: Why was the IT guy in the hospital?",
-    "punchline": "A: He touched the firewall!"
+    "pun": "Q: Why was the IT engineer in the hospital?",
+    "punchline": "A: They touched the firewall!"
+  },
+  {
+    "pun": "Q: How do you generate a random string?",
+    "punchline": "Put a Windows user in front of vim, and tell them to exit!"
   }
 ]
