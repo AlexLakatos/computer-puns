@@ -19,7 +19,7 @@
   "conversations": {
     "dev-pun": {
       "name": "dev-pun",
-      "url": "https://dev-puns.netlify.com/.netlify/functions/dev-pun"
+      "url": "https://us-central1-puns-dev-function.cloudfunctions.net/myFunction"
     }
   },
   "locale": "en"
