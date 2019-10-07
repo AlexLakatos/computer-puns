@@ -198,5 +198,9 @@
   {
     "pun": "Q: How do you generate a random string?",
     "punchline": "Put a Windows user in front of vim, and tell them to exit!"
+  },
+  {
+    "pun": "Q: Why did the PowerPoint Presentation cross the road?",
+    "punchline": "To get to the other slide."
   }
 ]
