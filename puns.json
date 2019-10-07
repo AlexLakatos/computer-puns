@@ -198,5 +198,9 @@
   {
     "pun": "Q: How do you generate a random string?",
     "punchline": "Put a Windows user in front of vim, and tell them to exit!"
+  },
+  {
+    "pun": "Q: What sits on your shoulder and says “Pieces of 7! Pieces of 7!”?",
+    "punchline": "A Parroty Error."
   }
 ]
