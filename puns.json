@@ -207,8 +207,9 @@
     "pun": "Q: How many programmers does it take to change a light bulb?",
     "punchline": "A: What’s the problem? The bulb at my desk works just fine!"
   },
-    "pun":"Q: Why did the programmer stop using Python?",
-    "punchline":"A: Because they are scared of snakes!"
+  {
+    "pun": "Q: Why did the programmer stop using Python?",
+    "punchline": "A: Because they are scared of snakes!"
   },
   {
     "pun": "Q: Why did the PowerPoint Presentation cross the road?",
