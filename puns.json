@@ -153,7 +153,7 @@
   },
   {
     "pun": "Q: What do you call it when you have your mom's mom on speed dial?",
-    "punchline": "A: Instagram."
+    "punchline": "A: Instagram!"
   },
   {
     "pun": "Q: Why did the functions stop calling each other?",
@@ -161,7 +161,7 @@
   },
   {
     "pun": "Q: Whats the most cutting edge language?",
-    "punchline": "A: C#."
+    "punchline": "A: C#!"
   },
   {
     "pun": "Q: Why couldn't the programmer dance to the song?",
@@ -173,23 +173,23 @@
   },
   {
     "pun": "Q: Why are programmers popular on the street?",
-    "punchline": "A: They'll write scripts for anything at the right price."
+    "punchline": "A: They'll write scripts for anything at the right price!"
   },
   {
     "pun": "Q: Why is everyone who works at the keyboard factory so rich?",
-    "punchline": "A: They put in a lot of shifts."
+    "punchline": "A: They put in a lot of shifts!"
   },
   {
     "pun": "Q: Why don't progammers like nature?",
-    "punchline": "A: Too many bugs."
+    "punchline": "A: Too many bugs!"
   },
   {
     "pun": "Q: How many bits of bait does a programmer need to go fishing?",
-    "punchline": "A: At least 8, or else the fish won't byte."
+    "punchline": "A: At least 8, or else the fish won't byte!"
   },
   {
     "pun": "Q: Why were the Javascript plumbers delayed?",
-    "punchline": "A: Because they had to await async."
+    "punchline": "A: Because they had to await async!"
   },
   {
     "pun": "Q: Why was the IT engineer in the hospital?",
@@ -201,6 +201,14 @@
   },
   {
     "pun":"Q: Why did the programmer stop using Python?",
-    "punchline":"A: Because he is scared of snakes."
+    "punchline":"A: Because they are scared of snakes!"
+  },
+  {
+    "pun": "Q: Why did the PowerPoint Presentation cross the road?",
+    "punchline": "To get to the other slide!"
+  },
+  {
+    "pun": "Q: What sits on your shoulder and says 'Pieces of 7! Pieces of 7!'?",
+    "punchline": "A Parroty Error!"
   }
 ]
