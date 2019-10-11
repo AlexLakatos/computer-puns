@@ -222,5 +222,9 @@
   {
     "pun": "Q: Why are database admins afraid of having dinner?",
     "punchline": "A: Because the table is cleared!"
+  },
+  {
+    "pun": "Q: Why did the integer never get any radio play?",
+    "punchline": "A: Because it was unsigned."
   }
 ]
