@@ -281,5 +281,11 @@
   {
     "pun": "Q: What accommodations did the JavaScript developer request at the hotel?",
     "punchline": "A: A room with a Vue."
+      },
+
+{
+    "pun": "Q: Why are 'i', 'j' and 'k' the most used letters for loop variables?",
+    "punchline": "A: Ask Dijkstra."
   }
+
 ]
