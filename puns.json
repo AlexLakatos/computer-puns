@@ -267,6 +267,10 @@
     "punchline": "A: A*"
   },
   {
+    "pun": "Q: Who is mongoDB's favourite singer?",
+    "punchline": "A: JSON derulo"
+  },
+  {
     "pun": "Q: Why was the JavaScript developer sad?",
     "punchline": "A: Because they didn't Node how to Express themselves!"
   }
