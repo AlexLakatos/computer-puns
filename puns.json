@@ -265,5 +265,9 @@
   {
     "pun": "Q: What search algorithm did the wise men use to find the baby Jesus?",
     "punchline": "A: A*"
+  },
+  {
+    "pun": "Q: Who is mongoDB's favourite singer?",
+    "punchline": "A: JSON derulo"
   }
 ]
