@@ -281,5 +281,9 @@
   {
     "pun": "Q: What accommodations did the JavaScript developer request at the hotel?",
     "punchline": "A: A room with a Vue."
+  },
+   {
+    "pun": "Q: What did the router say to the doctor?",
+    "punchline": "A: It hurts when IP"
   }
 ]
