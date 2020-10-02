@@ -273,5 +273,13 @@
   {
     "pun": "Q: Why was the JavaScript developer sad?",
     "punchline": "A: Because they didn't Node how to Express themselves!"
+  },
+  {
+    "pun": "Q: Hey officer! How did the hackers escape?",
+    "punchline": "A: No idea. They just ransomware."  
+  },
+  {
+    "pun": "Q: What accommodations did the JavaScript developer request at the hotel?",
+    "punchline": "A: A room with a Vue."
   }
 ]
