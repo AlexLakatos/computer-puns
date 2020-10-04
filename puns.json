@@ -267,33 +267,6 @@
     "punchline": "A: A*"
   },
   {
-    "pun": "Q: So, where did you two met?",
-    "punchline": "A: Github"
-  },
-  {
-    "pun": "Q: Who is your boyfriend?",
-    "punchline": "A: I'll leave the relations to the database"
-  },
-  {
-    "pun": "Q: What is the way of object oriented to become wealthy?",
-    "punchline": "A: Inheritance"
-  },
-  {
-    "pun": "Q: What is an algorithm?",
-    "punchline": "A: Word used by programmers when they did not want to explain what they did"
-  },
-  {
-    "pun": "Q: What do computers and air conditioners have in common?",
-    "punchline": "A: They both become useless when you open Windows"
-  },
-  {
-    "pun": "Q: What is a programmer's favourite hangout place?",
-    "punchline": "A: Foo Bar"
-  },
-  {
-    "pun": "Q: What is a programmer's favourite hangout place?",
-    "punchline": "A: Foo Bar"
-=======
     "pun": "Q: Who is mongoDB's favourite singer?",
     "punchline": "A: JSON derulo"
   },
@@ -312,6 +285,17 @@
    {
     "pun": "Q: What did the router say to the doctor?",
     "punchline": "A: It hurts when IP"
-
-  }
+  },
+  {
+    "pun": "Q: What is the way of object oriented to become wealthy?",
+    "punchline": "A: Inheritance"
+  },
+  {
+    "pun": "Q: What is an algorithm?",
+    "punchline": "A: Word used by programmers when they did not want to explain what they did"
+  },
+  {
+    "pun": "Q: What is a programmer's favourite hangout place?",
+    "punchline": "A: Foo Bar"
+  },
 ]
