@@ -289,5 +289,17 @@
    {
     "pun": "Q: What's a pirate's favorite programming language?",
     "punchline": "A: You'd think it was R, but their first love is the C."
+  },
+   {
+    "pun": "Q: What is the way of object oriented to become wealthy?",
+    "punchline": "A: Inheritance"
+  },
+   {
+    "pun": "Q: What is an algorithm?",
+    "punchline": "A: Word used by programmers when they did not want to explain what they did"
+  },
+   {
+    "pun": "Q: What is a programmer's favourite hangout place?",
+    "punchline": "A: Foo Bar"
   }
 ]
