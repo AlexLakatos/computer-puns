@@ -1,8 +1,7 @@
 const puns = require("./puns.json");
 
-exports.all = () => {
-  return puns
-};
+exports.all = () => puns;
+
 exports.random = () => {
   const randomId = Math.floor(Math.random() * Math.floor(puns.length))
   puns[randomId].id = randomId
