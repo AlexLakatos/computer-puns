@@ -310,5 +310,25 @@
   {
     "pun": "Q: What does a programmer say after a road trip across California?",
     "punchline": "A: It was a solid state drive"
+  },
+  {
+    "pun": "Q: What do Javascript programmers like to order at the coffeeshop?",
+    "punchline": "A: Mocha, Chai and a cup of Expresso"
+  },
+  {
+    "pun": "Q: Which planet in the solar system would a python developer first travel to?",
+    "punchline": "A: Jupyter"
+  },
+  {
+    "pun": "Q: Why did the developer turn down the marriage proposal?",
+    "punchline": "A: It’s a git commitment"
+  },
+  {
+    "pun": "Q: Which exhibition at the zoo did the python developer visit first?",
+    "punchline": "A: The Anaconda"
+  },
+  {
+    "pun": "Q: Why did a couple of programmers go to the farmer’s market?",
+    "punchline": "A: They went there to do pear programming"
   }
 ]
