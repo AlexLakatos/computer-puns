@@ -318,5 +318,9 @@
   {
     "pun": "Q: Did you hear about X's and Y's wedding? There were 10 arguments!",
     "punchline": "A: Well, it was a very large function!"
+  },
+  {
+    "pun": "Q: What do you call a programmer who acts in a strange way?",
+    "punchline:" "A: A programmer with undefined behaviour"
   }
 ]
