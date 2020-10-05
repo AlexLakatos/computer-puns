@@ -306,5 +306,9 @@
   {
     "pun": "Q: What is a programmer's favourite hangout place?",
     "punchline": "A: Foo Bar"
+  },
+  {
+    "pun": "Q: What does a programmer say after a road trip across California?",
+    "punchline": "A: It was a solid state drive"
   }
 ]
