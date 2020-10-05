@@ -1,15 +1,15 @@
 [
   {
     "pun": "Q: How many programmers does it take to change a light bulb?",
-    "punchline": "A: None. It's a hardware problem."
+    "punchline": "A: None. It's a hardware problem!"
   },
   {
     "pun": "Q: What does a proud computer call its little son?",
-    "punchline": "A: A microchip off the old block."
+    "punchline": "A: A microchip off the old block!"
   },
   {
     "pun": "Q: What is another name for a computer virus?",
-    "punchline": "A: A terminal illness"
+    "punchline": "A: A terminal illness!"
   },
   {
     "pun": "Q: Why did the computer spy quit?",
@@ -17,7 +17,7 @@
   },
   {
     "pun": "Q: What did the motherboard say to the new software?",
-    "punchline": "A: I’ll show you who’s Dos!"
+    "punchline": "A: I'll show you who's Dos!"
   },
   {
     "pun": "Q: What does a floppy disk do when it needs a break?",
@@ -25,7 +25,7 @@
   },
   {
     "pun": "Q: Why was the computer geek disappointed by the zoo?",
-    "punchline": "A: They couldn’t find any RAM!"
+    "punchline": "A: They couldn't find any RAM!"
   },
   {
     "pun": "Q: Which way did the computer programmer go?",
@@ -44,12 +44,12 @@
     "punchline": "A: Someone opened too many Windows!"
   },
   {
-    "pun": "Q: Why don’t Vikings like to send emails?",
+    "pun": "Q: Why don't Vikings like to send emails?",
     "punchline": "A: They prefer to use Norse code!"
   },
   {
     "pun": "Q: What do you say when a JavaScript interview went bad?",
-    "punchline": "A: Don’t call us, we'll callback you. We promise!"
+    "punchline": "A: Don't call us, we'll callback you. We promise!"
   },
   {
     "pun": "Q: Why did the computer programmer drown?",
@@ -73,7 +73,7 @@
   },
   {
     "pun": "Q: Do you know the band 1023 megabytes?",
-    "punchline": "A: They haven’t had a gig yet!"
+    "punchline": "A: They haven't had a gig yet!"
   },
   {
     "pun": "Q: Why was the database admin kicked out of the bar?",
@@ -100,12 +100,12 @@
     "punchline": "A: I don't know. Perhaps you should check the registry for clues!"
   },
   {
-    "pun": "Q: Where’s the best place to hide a body?",
+    "pun": "Q: Where's the best place to hide a body?",
     "punchline": "A: Page two of Google!"
   },
   {
     "pun": "Q: What is the biggest lie in the entire universe?",
-    "punchline": "A: “I have read and agree to the Terms & Conditions.”"
+    "punchline": "A: 'I have read and agree to the Terms & Conditions.'"
   },
   {
     "pun": "Q: What do computers do on a beach vacation?",
@@ -116,16 +116,16 @@
     "punchline": "A: They byte!"
   },
   {
-    "pun": "Q: Why do people on Twitter tell me I’m always confused?",
-    "punchline": "A: Because I don’t follow!"
+    "pun": "Q: Why do people on Twitter tell me I'm always confused?",
+    "punchline": "A: Because I don't follow!"
   },
   {
     "pun": "Q: How does a computer get drunk?",
     "punchline": "A: It takes screenshots!"
   },
   {
-    "pun": "Q: Why do app developer’s have such high insurance rates?",
-    "punchline": "A: They’re always crashing!"
+    "pun": "Q: Why do app developer's have such high insurance rates?",
+    "punchline": "A: They're always crashing!"
   },
   {
     "pun": "Q: Why doesn't the developer use Git?",
@@ -160,7 +160,7 @@
     "punchline": "A: Because they had constant arguments!"
   },
   {
-    "pun": "Q: Whats the most cutting edge language?",
+    "pun": "Q: What's the most cutting edge language?",
     "punchline": "A: C#!"
   },
   {
@@ -168,7 +168,7 @@
     "punchline": "A: Because they didn't get the algo-rhythm!"
   },
   {
-    "pun": "Q: Why do universities hate java programmers?",
+    "pun": "Q: Why do universities hate Java programmers?",
     "punchline": "A: They're always starting public classes!"
   },
   {
@@ -180,7 +180,7 @@
     "punchline": "A: They put in a lot of shifts!"
   },
   {
-    "pun": "Q: Why don't progammers like nature?",
+    "pun": "Q: Why don't programmers like nature?",
     "punchline": "A: Too many bugs!"
   },
   {
@@ -197,7 +197,7 @@
   },
   {
     "pun": "Q: How do you generate a random string?",
-    "punchline": "Put a Windows user in front of vim, and tell them to exit!"
+    "punchline": "A: Put a Windows user in front of vim and tell them to exit!"
   },
   {
     "pun": "Q: How many testers does it take to change a light bulb?",
@@ -205,7 +205,7 @@
   },
   {
     "pun": "Q: How many programmers does it take to change a light bulb?",
-    "punchline": "A: What’s the problem? The bulb at my desk works just fine!"
+    "punchline": "A: What's the problem? The bulb at my desk works just fine!"
   },
   {
     "pun": "Q: Why did the programmer stop using Python?",
@@ -213,10 +213,114 @@
   },
   {
     "pun": "Q: Why did the PowerPoint Presentation cross the road?",
-    "punchline": "To get to the other slide!"
+    "punchline": "A: To get to the other slide!"
   },
   {
     "pun": "Q: What sits on your shoulder and says 'Pieces of 7! Pieces of 7!'?",
-    "punchline": "A Parroty Error!"
+    "punchline": "A: A Parroty Error!"
+  },
+  {
+    "pun": "Q: Why are database admins afraid of having dinner?",
+    "punchline": "A: Because the table is cleared!"
+  },
+  {
+    "pun": "Q: Who is a computer's favorite singer?",
+    "punchline": "A: A Dell!"
+  },
+  {
+    "pun": "Q: Why did the integer never get any radio play?",
+    "punchline": "A: Because it was unsigned!"
+  },
+  {
+    "pun": "Q: How does the JavaScript function travel?",
+    "punchline": "A: It fly's first-class!"
+  },
+  {
+    "pun": "Q: What is a computer's favorite instrument?",
+    "punchline": "A: The keyboard!"
+  },
+  {
+    "pun": "Q: What does the hacker say to their mom when they're hacking people?",
+    "punchline": "A: Gone Phishing!"
+  },
+  {
+    "pun": "Q: What do Linux users wear?",
+    "punchline": "A: Tux-edos!"
+  },
+  {
+    "pun": "Q: What do you call a program whose file you can't find?",
+    "punchline": "A: Soft-where!"
+  },
+  {
+    "pun": "Q: What grade did the programmer get on their test?",
+    "punchline": "A: C++!"
+  },
+  {
+    "pun": "Q: What made the technician win the golf tournament?",
+    "punchline": "A: They had a hard-drive!"
+  },
+  {
+    "pun": "Q: Why do programmers take so long in the shower?",
+    "punchline": "A: The instructions on the shampoo are: lather, rinse, repeat!"
+  },
+  {
+    "pun": "Q: What search algorithm did the wise men use to find the baby Jesus?",
+    "punchline": "A: A*"
+  },
+  {
+    "pun": "Q: Who is mongoDB's favourite singer?",
+    "punchline": "A: JSON derulo"
+  },
+  {
+    "pun": "Q: Why was the JavaScript developer sad?",
+    "punchline": "A: Because they didn't Node how to Express themselves!"
+  },
+  {
+    "pun": "Q: Hey officer! How did the hackers escape?",
+    "punchline": "A: No idea. They just ransomware."
+  },
+  {
+    "pun": "Q: What accommodations did the JavaScript developer request at the hotel?",
+    "punchline": "A: A room with a Vue."
+  },
+  {
+    "pun": "Q: What did the router say to the doctor?",
+    "punchline": "A: It hurts when IP"
+  },
+  {
+    "pun": "Q: What do you call the top of a function that's async?",
+    "punchline": "A: Tap water..."
+  },
+  {
+    "pun": "Q: What's a pirate's favorite programming language?",
+    "punchline": "A: You'd think it was R, but their first love is the C."
+  },
+  {
+    "pun": "Q: What is the way of object oriented to become wealthy?",
+    "punchline": "A: Inheritance"
+  },
+  {
+    "pun": "Q: What is an algorithm?",
+    "punchline": "A: Word used by programmers when they did not want to explain what they did"
+  },
+  {
+    "pun": "Q: What is a programmer's favourite hangout place?",
+    "punchline": "A: Foo Bar"
+  },
+  {
+    "pun": "Q: What does a programmer say after a road trip across California?",
+    "punchline": "A: It was a solid state drive"
+  },
+  {
+    "pun": "Q: Did you hear about the programmer who spent a day walking round in circles?",
+    "punchline": "A: After a while they really needed a break"
+  },
+  {
+    "pun": "Q: Did you hear about X's and Y's wedding? There were 10 arguments!",
+    "punchline": "A: Well, it was a very large function!"
+  },
+  {
+    "pun": "Q: What do you call a programmer who acts in a strange way?",
+    "punchline:" "A: A programmer with undefined behaviour"
   }
 ]
