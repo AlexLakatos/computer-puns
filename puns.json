@@ -340,11 +340,23 @@
     "punchline": "A: Well, it was a very large function!"
   },
   {
+    "pun": "Q: Why was the cell phone wearing glasses?",
+    "punchline": "A: It lost its contacts!"
+  },
+  {
+    "pun": "Q: What’s an alien favorite key?",
+    "punchline": "A: The space bar!"
+  },
+  {
     "pun": "Q: What do you call a programmer who acts in a strange way?",
     "punchline": "A: A programmer with undefined behaviour"
   },
   {
     "pun": "Q: Why won't they let the programmer write any loops with iterators?",
     "punchline": "A: Because the programmer is called is Obi-Wan"
+  },
+  {
+    "pun": "Q: What did the programmer say when they couldn't debug their code?",
+    "punchline": "A: It's imparsable"
   }
 ]
