@@ -312,6 +312,26 @@
     "punchline": "A: It was a solid state drive"
   },
   {
+    "pun": "Q: What do Javascript programmers like to order at the coffeeshop?",
+    "punchline": "A: Mocha, Chai and a cup of Expresso"
+  },
+  {
+    "pun": "Q: Which planet in the solar system would a python developer first travel to?",
+    "punchline": "A: Jupyter"
+  },
+  {
+    "pun": "Q: How did the lecturer encouraged the computer science students?",
+    "punchline": "A: Git job. Git pushing on!"
+  },
+  {
+    "pun": "Q: Which exhibition at the zoo did the python developer visit first?",
+    "punchline": "A: The Anaconda"
+  },
+  {
+    "pun": "Q: Why did a couple of programmers go to the farmer’s market?",
+    "punchline": "A: They went there to do pear programming"
+  },
+  {
     "pun": "Q: Did you hear about the programmer who spent a day walking round in circles?",
     "punchline": "A: After a while they really needed a break"
   },
@@ -320,7 +340,27 @@
     "punchline": "A: Well, it was a very large function!"
   },
   {
+    "pun": "Q: Why was the cell phone wearing glasses?",
+    "punchline": "A: It lost its contacts!"
+  },
+  {
+    "pun": "Q: What’s an alien favorite key?",
+    "punchline": "A: The space bar!"
+  },
+  {
     "pun": "Q: What do you call a programmer who acts in a strange way?",
     "punchline": "A: A programmer with undefined behaviour"
+  },
+  {
+    "pun": "Q: What do some programmers call their Grandmas?",
+    "punchline": "NaN"
+  },
+  {
+    "pun": "Q: Why won't they let the programmer write any loops with iterators?",
+    "punchline": "A: Because the programmer is called is Obi-Wan"
+  },
+  {
+    "pun": "Q: What did the programmer say when they couldn't debug their code?",
+    "punchline": "A: It's imparsable"
   }
 ]
