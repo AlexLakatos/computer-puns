@@ -362,5 +362,9 @@
   {
     "pun": "Q: What did the programmer say when they couldn't debug their code?",
     "punchline": "A: It's imparsable"
+  },
+  {
+    "pun": "Q: What do programmers do when they're hungry?",
+    "punchline": "A: They grab a byte"
   }
 ]
