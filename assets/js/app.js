@@ -1,5 +1,4 @@
-var app = new Vue({
-  el: '#app',
+const app = {
   props: {
     wrapperClass: {
       type: String,
@@ -46,8 +45,10 @@ var app = new Vue({
     }
   }
 
-})
+}
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
+
+Vue.createApp(app).mount('#app')
