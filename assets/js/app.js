@@ -1,22 +1,11 @@
 const app = {
-  props: {
-    wrapperClass: {
-      type: String,
-      default: 'zx-12'
-    },
-    fontFamily: {
-      type: String,
-      default: 'ff-3'
-    },
-    randomPun: {
-      type: Number,
-      default: 0
-    }
-  },
   data() {
     return {
       puns: null,
-      pun: null
+      pun: null,
+      randomPun: 0,
+      wrapperClass: 'zx-12',
+      fontFamily: 'ff-3'
     }
   },
   mounted() {
@@ -28,7 +17,7 @@ const app = {
       });
   },
   methods: {
-    newPun: function() {
+    newPun() {
       this.randomPun = this.randomPun + 1;
       if (this.randomPun >= this.puns.length) {
         this.randomPun = 0
@@ -37,14 +26,13 @@ const app = {
       this.wrapperClass = "zx-" + (getRandomInt(16) + 1).toString();
       this.fontFamily = "ff-" + (getRandomInt(6) + 1).toString();
     },
-    openGitHub: function() {
+    openGitHub() {
       window.location = "https://github.com/AlexLakatos/computer-puns";
     },
-    openTwitter: function() {
+    openTwitter() {
       window.location = "https://twitter.com/lakatos88";
     }
   }
-
 }
 
 function getRandomInt(max) {

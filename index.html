@@ -17,9 +17,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="description" content="A curated selection of the worst computer puns from around the Internet">
-  <meta name="keywords" content="bad puns, puns, computer puns, bad computer puns, top puns, best puns, dad jokes, bad jokes, best dad jokes, top dad jokes, puns list">
+  <meta name="keywords"
+    content="bad puns, puns, computer puns, bad computer puns, top puns, best puns, dad jokes, bad jokes, best dad jokes, top dad jokes, puns list">
   <meta name="author" content="Alex Lakatos">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <meta name="monetization" content="$ilp.uphold.com/xd77BF7MkF7J">
 
   <!-- Facebook  -->
@@ -44,15 +46,19 @@
 </head>
 
 <body>
-  <div id="app" v-bind:class="[ 'noselect', wrapperClass, fontFamily ]" v-on:click.stop.prevent="newPun">
-    <div class="pun">
-      <p v-if="pun">{{ pun.pun }}</p>
-      <p v-if="pun">{{ pun.punchline }}</p>
-    </div>
-    <div class="footer">
-      <p class="hide-mobile" v-on:click.stop.prevent="openGitHub"><a rel="external" href="https://github.com/AlexLakatos/computer-puns">Contribute on GitHub</a></p>
-      <p>Click for more</p>
-      <p v-on:click.stop.prevent="openTwitter">Made with ❤️ by <a rel="external" href="https://twitter.com/lakatos88">Laka</a></p>
+  <div id="app">
+    <div :class="[ 'noselect', wrapperClass, fontFamily ]" @click.stop.prevent="newPun($event)">
+      <div class="pun">
+        <p v-if="pun">{{ pun.pun }}</p>
+        <p v-if="pun">{{ pun.punchline }}</p>
+      </div>
+      <div class="footer">
+        <p class="hide-mobile" @click.stop.prevent="openGitHub()"><a rel="external"
+            href="https://github.com/AlexLakatos/computer-puns">Contribute on GitHub</a></p>
+        <p>Click for more</p>
+        <p @click.stop.prevent="openTwitter()">Made with ❤️ by <a rel="external"
+            href="https://twitter.com/lakatos88">Laka</a></p>
+      </div>
     </div>
   </div>
   <script src="https://unpkg.com/vue@next"></script>

@@ -212,14 +212,14 @@ $ff-6: 'Oxygen Mono';
                                   supported by Chrome and Opera */
 }
 
-body, html {
+body, html, #app {
   height: 100%;
   display: grid;
   margin: 0;
   padding: 0;
 }
 
-#app {
+#app .noselect {
   font-size: 60px;
   letter-spacing: 1px;
   border-top: 20px solid $zx-1;
