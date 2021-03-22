@@ -21,7 +21,7 @@
     content="bad puns, puns, computer puns, bad computer puns, top puns, best puns, dad jokes, bad jokes, best dad jokes, top dad jokes, puns list">
   <meta name="author" content="Alex Lakatos">
   <meta name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    content="width=device-width, initial-scale=1.0, minimal-ui">
   <meta name="monetization" content="$ilp.uphold.com/xd77BF7MkF7J">
 
   <!-- Facebook  -->
@@ -61,10 +61,10 @@
 <body>
   <div id="app">
     <div :class="[ 'noselect', wrapperClass, fontFamily ]" @click.stop.prevent="newPun($event)">
-      <div class="pun">
+      <main class="pun">
         <p v-if="pun">{{ pun.pun }}</p>
         <p v-if="pun">{{ pun.punchline }}</p>
-      </div>
+      </main>
       <div class="footer">
         <p class="hide-mobile" @click.stop.prevent="openGitHub()"><a rel="external"
             href="https://github.com/AlexLakatos/computer-puns">Contribute on GitHub</a></p>
