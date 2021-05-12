@@ -398,5 +398,9 @@
   {
     "pun": "Q: Why is it that programmers always confuse Halloween with Christmas?",
     "punchline": "A: Because 31 OCT = 25 DEC!"
+  },
+  {
+    "pun": "Q: Why do programmers always use the dark theme in IDEs?",
+    "punchline": "A: Because light attracts bugs!"
   }
 ]
