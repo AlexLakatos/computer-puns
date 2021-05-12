@@ -401,14 +401,13 @@
   },
   {
     "pun": "Q: What do hackers do on a boat?",
-    "punchline": "A: Phishing."
+    "punchline": "A: Phishing!"
   },
   {
     "pun": "Q: What’s the best way to learn programming?",
-    "punchline": "A: Bit by bit.."
+    "punchline": "A: Bit by bit..."
   },
-  {
-    "pun": "Q: Why can’t an IT guy keep a girlfriend?",
-    "punchline": "A: He turns them all off and on again."
+    "pun": "Q: Why do programmers always use the dark theme in IDEs?",
+    "punchline": "A: Because light attracts bugs!"
   }
 ]
