@@ -1,0 +1,14 @@
+name: Thanks PR
+
+on: [pull_request]
+
+jobs:
+  punny:
+    runs-on: ubuntu-latest
+    name: Reward PRs with a random pun
+    permissions:
+      pull-requests: write
+    steps:
+    - uses: AlexLakatos/puns-dev-action@v1.0
+      id: pun
+    - run: echo "The pun was ${{ steps.pun.outputs.pun.punchline }}"
