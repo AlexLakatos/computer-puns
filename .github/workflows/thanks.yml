@@ -13,5 +13,9 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         message: |
+          Thank you for submitting a PR! Here's a pun, while you wait for me to review it.
+          
           ${{ steps.pun.outputs.pun }}
           ${{ steps.pun.outputs.punchline }}
+          
+          Or you can [ping me on Twitter](https://twitter.com/lakatos88), that tends to speed up this process!
