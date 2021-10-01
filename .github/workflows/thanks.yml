@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: AlexLakatos/puns-dev-action@v1.0
       id: pun
-    - run: echo "The pun was ${{ steps.pun.outputs.pun.punchline }}"
+    - run: echo "The pun was ${{ steps.pun.outputs.pun }}"
