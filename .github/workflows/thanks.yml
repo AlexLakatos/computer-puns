@@ -6,9 +6,12 @@ jobs:
   punny:
     runs-on: ubuntu-latest
     name: Reward PRs with a random pun
-    permissions:
-      pull-requests: write
     steps:
     - uses: AlexLakatos/puns-dev-action@v1.2
       id: pun
-    - run: echo "${{ steps.pun.outputs.pun }}\n${{ steps.pun.outputs.punchline }}"
+    - uses: github-actions-up-and-running/pr-comment@v1.0.0
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        message: |
+          ${{ steps.pun.outputs.pun }}
+          ${{ steps.pun.outputs.punchline }}
