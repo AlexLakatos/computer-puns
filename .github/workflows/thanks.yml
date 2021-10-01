@@ -9,6 +9,6 @@ jobs:
     permissions:
       pull-requests: write
     steps:
-    - uses: AlexLakatos/puns-dev-action@v1.1
+    - uses: AlexLakatos/puns-dev-action@v1.2
       id: pun
-    - run: echo "The pun was ${{ steps.pun.outputs.pun }}"
+    - run: echo "${{ steps.pun.outputs.pun }}\n${{ steps.pun.outputs.punchline }}"
