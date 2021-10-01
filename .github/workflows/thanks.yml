@@ -9,9 +9,9 @@ jobs:
     steps:
     - uses: AlexLakatos/puns-dev-action@v1.2
       id: pun
-    - uses: github-actions-up-and-running/pr-comment@v1.0.0
+    - uses: allthatjazzleo/actions-pull-request-add-comment@v1
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         message: |
           ${{ steps.pun.outputs.pun }}
           ${{ steps.pun.outputs.punchline }}
