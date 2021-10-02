@@ -1,14 +1,18 @@
 const puns = require("./puns.json");
 
 /**
- * Get all puns.
- * @returns {Array} Array of pun objects (pun and punchline)
+ * Get a list of puns.
+ * @returns {Object[]} puns - The puns.
+ * @returns {string} puns[].pun - The pun.
+ * @returns {string} puns[].punchline - The punchline.
  */
 exports.all = () => puns;
 
 /**
- * Get random pun.
- * @returns {Object} Pun object (pun and punchline)
+ * Get a random pun.
+ * @returns {Object} pun - The pun.
+ * @returns {string} pun.pun - The pun.
+ * @returns {string} pun.punchline - The punchline.
  */
 exports.random = () => {
   const randomId = Math.floor(Math.random() * Math.floor(puns.length))
@@ -19,7 +23,9 @@ exports.random = () => {
 /**
  * Get specific pun.
  * @param {string} [id] Id of pun; returns random pun otherwise
- * @returns {Object} Pun object (pun and punchline)
+ * @returns {Object} pun - The pun.
+ * @returns {string} pun.pun - The pun.
+ * @returns {string} pun.punchline - The punchline.
  */
 exports.get = (id) => {
   if (id !== undefined) {
