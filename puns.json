@@ -425,7 +425,7 @@
   },
   {
     "pun": "Why didn't the programmer finish their class work?",
-    "punchline": "They were Test Driven..."
+    "punchline": "They were Test-Driven..."
   },
   {
     "pun": "Q: Why did the computer go to the opticians?",
@@ -436,7 +436,19 @@
     "punchline": "A: A very big memory!"
   },
   {
-    "pun": "Q: Why are javascript interviews so unpredictable?",
+    "pun": "Q: Why are JavaScript interviews so unpredictable?",
     "punchline": "A: You never know how a candidate will React!"
+  },
+  {
+    "pun": "Q: What do you call a group of 8 rabbits?",
+    "punchline": "A: A rabbyte!"
+  },
+  {
+    "pun": "Q: Why are JavaScript interviews so unpredictable?",
+    "punchline": "A: You never Node how a candidate will React!"
+  },
+  {
+    "pun": "Q: How do you catch a C# framework?",
+    "punchline": "A: With a .NET!"
   }
 ]
