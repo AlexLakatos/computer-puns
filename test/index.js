@@ -47,4 +47,18 @@ describe('puns', function() {
       }).to.throw('is not in the');
     });
   });
+
+  describe('#search()', function() {
+    it('should return a unique list of puns that include a given word', function(){
+      let searchResults = puns.search("C#");
+      assert.deepEqual(searchResults, Array.from(new Set(searchResults)));
+    });
+
+    it('should return a string if no puns are found relevant to the given word', function(){
+      expect(() => {
+        puns.search("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbb");
+      }).to.throw("Search did not find any relevant puns.");
+    });
+  })
+  
 });

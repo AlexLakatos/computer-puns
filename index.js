@@ -40,3 +40,27 @@ exports.get = (id) => {
     return this.random()
   }
 }
+
+/**
+ * Search for a specific pun based on provided keyword or keywords.
+ * @param {string} [searchString] Individual keyword or space-separated list of keywords.
+ * @returns {Object[]} puns - The puns.
+ * @returns {string} puns[].pun - The pun.
+ * @returns {string} puns[].punchline - The punchline.
+ */
+exports.search = (searchString) => {
+  let keywords = searchString.toLowerCase().split(" ");
+  let relevantPuns = [];
+  keywords.forEach(keyword => {
+    let perKeywordRelevantPuns = puns.filter(punObj => {
+      return (punObj.pun.toLowerCase().includes(keyword) || punObj.punchline.toLowerCase().includes(keyword))
+    })
+    relevantPuns.push(...perKeywordRelevantPuns);
+  });
+
+  if (relevantPuns.length > 0){
+    return Array.from(new Set(relevantPuns));
+  } else {
+    throw "Search did not find any relevant puns.";
+  }
+}
