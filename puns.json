@@ -438,5 +438,13 @@
   {
     "pun": "Q: Why are javascript interviews so unpredictable?",
     "punchline": "A: You never know how a candidate will React!"
+  },
+  {
+    "pun":"I saw a great movie about databases today",
+    "punchline":"I can't wait for the SQL"
+  },
+  {
+    "pun":"A database professional walks into a bar",
+    "punchline":"And joins two tables."
   }
 ]
