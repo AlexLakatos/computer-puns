@@ -446,5 +446,17 @@
   {
     "pun": "Q: How do you catch a C# framework?",
     "punchline": "A: With a .NET!"
+  },
+  {
+   "pun": "Q: Why did the computer show up at work late?",
+   "punchline": "A: It had a hard drive."
+  },
+  {
+    "pun": "Q: Why did the developer go broke?",
+    "punchline": "A: They used up all their cache!"
+  },
+  {
+    "pun": "Q: What did C++ say to C?",
+    "punchline": "A: You have no class!"
   }
 ]
