@@ -1,7 +1,7 @@
 {
   "name": "puns.dev",
-  "version": "0.1.5",
-  "description": "A hand-picked selection of the worst computer puns on the Internet, really cringe worthy stuff.",
+  "version": "0.2.1",
+  "description": "A hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
