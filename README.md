@@ -64,6 +64,19 @@ Returns the pun from the id in the pun list:
 }
 ```
 
+#### `.search`
+
+```JavaScript
+puns.search([keyword])
+```
+Returns a list of puns matching the list of keywords:
+```JavaScript
+[{
+  "pun": "Q: How do you comfort a JavaScript bug?",
+  "punchline": "A: You console it!"
+}]
+```
+
 ## Node.js CLI
 
 TBD

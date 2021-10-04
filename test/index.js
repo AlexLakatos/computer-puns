@@ -50,7 +50,7 @@ describe('puns', function () {
 
   describe('#search()', function () {
     it('should return a unique list of puns that include a given word', function () {
-      let searchResults = puns.search("What do you call a group of 8 hobbits");
+      let searchResults = puns.search(["What do you call a group of 8 hobbits"]);
       let pun = {
         "pun": "Q: What do you call a group of 8 hobbits?",
         "punchline": "A: A hobbyte!"
@@ -62,12 +62,16 @@ describe('puns', function () {
       expect(puns.search("JavaScript").length).to.be.above(0);
     });
 
+    it('should return all puns when no search keyword is used', function () {
+      expect(puns.search().length).to.equal(puns.all().length);
+    });
+
     it('should accept multiple keywords', function () {
-      expect(puns.search("hobbits", "JavaScript").length).to.not.equal(0);
+      expect(puns.search(["hobbits", "JavaScript"]).length).to.not.equal(0);
     });
 
     it('should return an empty list if no puns are found matching any of the keywords', function () {
-      expect(puns.search("aabb").length).to.equal(0);
+      expect(puns.search(["aabb"]).length).to.equal(0);
     });
   })
 });
