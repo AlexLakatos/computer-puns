@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Reward PRs with a random pun
     steps:
-    - uses: AlexLakatos/puns-dev-action@v1.2
+    - uses: AlexLakatos/puns-dev-action@v1.3
       id: pun
     - uses: allthatjazzleo/actions-pull-request-add-comment@v1
       with:
