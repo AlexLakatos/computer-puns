@@ -4,6 +4,10 @@
     "punchline": "A: None. It's a hardware problem!"
   },
   {
+    "pun": "Q: Why was the keyboard so tired?",
+    "punchline": "A: Because it has two shifts every day!"
+  },
+  {
     "pun": "Q: What does a proud computer call its little son?",
     "punchline": "A: A microchip off the old block!"
   },
@@ -418,5 +422,53 @@
   {
     "pun": "Q: Why didn't the shelf compile?",
     "punchline": "A: It was missing a bracket!"
+  },
+  {
+    "pun": "Why didn't the programmer finish their class work?",
+    "punchline": "They were Test-Driven..."
+  },
+  {
+    "pun": "Q: Why did the computer go to the opticians?",
+    "punchline": "A: It needed to improve its web-sight!"
+  },
+  {
+    "pun": "Q: What do you get when you cross a computer with an elephant?",
+    "punchline": "A: A very big memory!"
+  },
+  {
+    "pun": "Q: Why are JavaScript interviews so unpredictable?",
+    "punchline": "A: You never know how a candidate will React!"
+  },
+  {
+    "pun": "Q: What do you call a group of 8 rabbits?",
+    "punchline": "A: A rabbyte!"
+  },
+  {
+    "pun": "Q: How do you catch a C# framework?",
+    "punchline": "A: With a .NET!"
+  },
+  {
+   "pun": "Q: Why did the computer show up at work late?",
+   "punchline": "A: It had a hard drive."
+  },
+  {
+    "pun": "Q: Why did the developer go broke?",
+    "punchline": "A: They used up all their cache!"
+  },
+  {
+    "pun": "Q: What did C++ say to C?",
+    "punchline": "A: You have no class!"
+  },
+  {
+    "pun": "Q: Why are there not great movies about databases?",
+    "punchline": "Because everyone already hates the SQL!"
+  },
+  {
+    "pun":"Q. What jungle animal has only two states – jumping out and scaring people or not.",
+    "punchline":"A Boo-lion"
+  },
+  {
+    "pun": "Q. Why shouldn't you use \"beef stew\" as a password?",
+    "punchline":"It's not stroganoff"
   }
 ]

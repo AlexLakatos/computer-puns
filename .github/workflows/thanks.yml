@@ -1,0 +1,23 @@
+name: Thanks PR
+
+on:
+  pull_request_target:
+    types: [ opened ]
+
+jobs:
+  punny:
+    runs-on: ubuntu-latest
+    name: Reward PRs with a random pun
+    steps:
+    - uses: AlexLakatos/puns-dev-action@v1.2
+      id: pun
+    - uses: allthatjazzleo/actions-pull-request-add-comment@v1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        message: |
+          Thank you for submitting a PR! Here's a pun, while you wait for me to review it.
+          
+          ${{ steps.pun.outputs.pun }}
+          ${{ steps.pun.outputs.punchline }}
+          
+          Or you can [ping me on Twitter](https://twitter.com/lakatos88), that tends to speed up this process!
