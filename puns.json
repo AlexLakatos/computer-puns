@@ -1,6 +1,11 @@
-[{
+[
+  {
     "pun": "Q: How many programmers does it take to change a light bulb?",
     "punchline": "A: None. It's a hardware problem!"
+  },
+  {
+    "pun": "Q: Why was the keyboard so tired?",
+    "punchline": "A: Because it has two shifts every day!"
   },
   {
     "pun": "Q: What does a proud computer call its little son?",
@@ -76,7 +81,7 @@
   },
   {
     "pun": "Q: Why was the database admin kicked out of the bar?",
-    "punchline": "A: They kept joining the tables."
+    "punchline": "A: They kept joining the tables!"
   },
   {
     "pun": "Q: Why did the JavaScript developer lose their job?",
@@ -264,34 +269,206 @@
   },
   {
     "pun": "Q: What search algorithm did the wise men use to find the baby Jesus?",
-    "punchline": "A: A*"
+    "punchline": "A: A*!"
   },
   {
-    "pun": "Q: So, where did you two met?",
-    "punchline": "A: Github"
+    "pun": "Q: Who is mongoDB's favourite singer?",
+    "punchline": "A: JSON derulo!"
   },
   {
-    "pun": "Q: Who is your boyfriend?",
-    "punchline": "A: I'll leave the relations to the database"
+    "pun": "Q: Why was the JavaScript developer sad?",
+    "punchline": "A: Because they didn't Node how to Express themselves!"
+  },
+  {
+    "pun": "Q: Hey officer! How did the hackers escape?",
+    "punchline": "A: No idea. They just ransomware."
+  },
+  {
+    "pun": "Q: What accommodations did the JavaScript developer request at the hotel?",
+    "punchline": "A: A room with a Vue!"
+  },
+  {
+    "pun": "Q: What did the router say to the doctor?",
+    "punchline": "A: It hurts when IP!"
+  },
+  {
+    "pun": "Q: What do you call the top of a function that's async?",
+    "punchline": "A: Tap water..."
+  },
+  {
+    "pun": "Q: What's a pirate's favorite programming language?",
+    "punchline": "A: You'd think it was R, but their first love is the C."
   },
   {
     "pun": "Q: What is the way of object oriented to become wealthy?",
-    "punchline": "A: Inheritance"
+    "punchline": "A: Inheritance!"
   },
   {
     "pun": "Q: What is an algorithm?",
-    "punchline": "A: Word used by programmers when they did not want to explain what they did"
-  },
-  {
-    "pun": "Q: What do computers and air conditioners have in common?",
-    "punchline": "A: They both become useless when you open Windows"
+    "punchline": "A: Word used by programmers when they don't want to explain what they did!"
   },
   {
     "pun": "Q: What is a programmer's favourite hangout place?",
-    "punchline": "A: Foo Bar"
+    "punchline": "A: Foo Bar!"
   },
   {
-    "pun": "Q: What is a programmer's favourite hangout place?",
-    "punchline": "A: Foo Bar"
+    "pun": "Q: What does a programmer say after a road trip across California?",
+    "punchline": "A: It was a solid state drive!"
+  },
+  {
+    "pun": "Q: What do Javascript programmers like to order at the coffeeshop?",
+    "punchline": "A: Mocha, Chai and a cup of Expresso!"
+  },
+  {
+    "pun": "Q: Which planet in the solar system would a python developer first travel to?",
+    "punchline": "A: Jupyter!"
+  },
+  {
+    "pun": "Q: How did the lecturer encouraged the computer science students?",
+    "punchline": "A: Git job. Git pushing on!"
+  },
+  {
+    "pun": "Q: Which exhibition at the zoo did the Python developer visit first?",
+    "punchline": "A: The Anaconda!"
+  },
+  {
+    "pun": "Q: Why did a couple of programmers go to the farmer’s market?",
+    "punchline": "A: They went there to do pear programming!"
+  },
+  {
+    "pun": "Q: Did you hear about the programmer who spent a day walking round in circles?",
+    "punchline": "A: After a while they really needed a break!"
+  },
+  {
+    "pun": "Q: Did you hear about X's and Y's wedding? There were 10 arguments!",
+    "punchline": "A: Well, it was a very large function!"
+  },
+  {
+    "pun": "Q: Why was the cell phone wearing glasses?",
+    "punchline": "A: It lost its contacts!"
+  },
+  {
+    "pun": "Q: What’s an aliens favorite key?",
+    "punchline": "A: The space bar!"
+  },
+  {
+    "pun": "Q: What do you call a programmer who acts in a strange way?",
+    "punchline": "A: A programmer with undefined behaviour!"
+  },
+  {
+    "pun": "Q: What do some programmers call their Grandmas?",
+    "punchline": "NaN!"
+  },
+  {
+    "pun": "Q: Why won't they let the programmer write any loops with iterators?",
+    "punchline": "A: Because the programmer is called is Obi-Wan!"
+  },
+  {
+    "pun": "Q: What did the programmer say when they couldn't debug their code?",
+    "punchline": "A: It's imparsable!"
+  },
+  {
+    "pun": "Q: What do programmers do when they're hungry?",
+    "punchline": "A: They grab a byte!"
+  },
+  {
+    "pun": "Q: What do you call a group of 8 hobbits?",
+    "punchline": "A: A hobbyte!"
+  },
+  {
+    "pun": "Q: Why did the router and the laptop get married?",
+    "punchline": "A: Because they had a connection!"
+  },
+  {
+    "pun": "Q: How does Bill Gates count to 10?",
+    "punchline": "A: 1, 2, 3, 3.1, 95, 98, ME, 2000, XP, Vista, 7, 8, 10!"
+  },
+  {
+    "pun": "Q: What did the CPU say when it was being overclocked?",
+    "punchline": "A: “Stop it! It hertz so much!”"
+  },
+  {
+    "pun": "Q: What's a programmers' favorite dessert?",
+    "punchline": "A: Raspberry Pi!"
+  },
+  {
+    "pun": "Q: Why did you get fired from your job at the keyboard factory?",
+    "punchline": "A: They told me I wasn't putting in enough shifts!"
+  },
+  {
+    "pun": "Q: What do you call an iPhone that isn't kidding around?",
+    "punchline": "A: Siri-ous!"
+  },
+  {
+    "pun": "Q: Why is it that programmers always confuse Halloween with Christmas?",
+    "punchline": "A: Because 31 OCT = 25 DEC!"
+  },
+  {
+    "pun": "Q: What do hackers do on a boat?",
+    "punchline": "A: Phishing!"
+  },
+  {
+    "pun": "Q: What’s the best way to learn programming?",
+    "punchline": "A: Bit by bit..."
+  },
+  {
+    "pun": "Q: Why do programmers always use the dark theme in IDEs?",
+    "punchline": "A: Because light attracts bugs!"
+  },
+  {
+    "pun": "Q: What did the programmer shout at the unjust ruling in court?",
+    "punchline": "A: [object Object]"
+  },
+  {
+    "pun": "Q: Why didn't the shelf compile?",
+    "punchline": "A: It was missing a bracket!"
+  },
+  {
+    "pun": "Why didn't the programmer finish their class work?",
+    "punchline": "They were Test-Driven..."
+  },
+  {
+    "pun": "Q: Why did the computer go to the opticians?",
+    "punchline": "A: It needed to improve its web-sight!"
+  },
+  {
+    "pun": "Q: What do you get when you cross a computer with an elephant?",
+    "punchline": "A: A very big memory!"
+  },
+  {
+    "pun": "Q: Why are JavaScript interviews so unpredictable?",
+    "punchline": "A: You never know how a candidate will React!"
+  },
+  {
+    "pun": "Q: What do you call a group of 8 rabbits?",
+    "punchline": "A: A rabbyte!"
+  },
+  {
+    "pun": "Q: How do you catch a C# framework?",
+    "punchline": "A: With a .NET!"
+  },
+  {
+   "pun": "Q: Why did the computer show up at work late?",
+   "punchline": "A: It had a hard drive."
+  },
+  {
+    "pun": "Q: Why did the developer go broke?",
+    "punchline": "A: They used up all their cache!"
+  },
+  {
+    "pun": "Q: What did C++ say to C?",
+    "punchline": "A: You have no class!"
+  },
+  {
+    "pun": "Q: Why are there not great movies about databases?",
+    "punchline": "Because everyone already hates the SQL!"
+  },
+  {
+    "pun":"Q. What jungle animal has only two states – jumping out and scaring people or not.",
+    "punchline":"A Boo-lion"
+  },
+  {
+    "pun": "Q. Why shouldn't you use \"beef stew\" as a password?",
+    "punchline":"It's not stroganoff"
   }
 ]
