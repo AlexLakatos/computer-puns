@@ -417,7 +417,7 @@
   },
   {
     "pun": "Q: What did the programmer shout at the unjust ruling in court?",
-    "punchline": "A: [object Object]"
+    "punchline": "A: [object Object]!"
   },
   {
     "pun": "Q: Why didn't the shelf compile?",
@@ -448,8 +448,8 @@
     "punchline": "A: With a .NET!"
   },
   {
-   "pun": "Q: Why did the computer show up at work late?",
-   "punchline": "A: It had a hard drive."
+    "pun": "Q: Why did the computer show up at work late?",
+    "punchline": "A: It had a hard drive!"
   },
   {
     "pun": "Q: Why did the developer go broke?",
@@ -461,14 +461,18 @@
   },
   {
     "pun": "Q: Why are there not great movies about databases?",
-    "punchline": "Because everyone already hates the SQL!"
+    "punchline": "A: Because everyone already hates the SQL!"
   },
   {
-    "pun":"Q. What jungle animal has only two states – jumping out and scaring people or not.",
-    "punchline":"A Boo-lion"
+    "pun": "Q: What jungle animal has only two states – jumping out and scaring people or not.",
+    "punchline": "A: A Boo-lion!"
   },
   {
-    "pun": "Q. Why shouldn't you use \"beef stew\" as a password?",
-    "punchline":"It's not stroganoff"
+    "pun": "Q: Why shouldn't you use \"beef stew\" as a password?",
+    "punchline": "A: It's not stroganoff!"
+  },
+  {
+    "pun": "Q: What did the JavaScript developer do when they got fired?",
+    "punchline": "A: They didn't know how to React!"
   }
 ]
