@@ -342,5 +342,21 @@
   {
     "pun": "Q: What do you call a programmer who acts in a strange way?",
     "punchline": "A: A programmer with undefined behaviour"
+  },
+  {
+    "pun": "Q: A bunch of programmers developed a fever and lost their sense of smell. Why?",
+    "punchline": "They caught Cloudvid :("
+  },
+  {
+    "pun": "Q: What do lumberjacks and computer criminals have in common?",
+    "punchline": "They hack for a living"
+  },
+  {
+    "pun": "Q: Why do you only find computers in the classroom yesterday?",
+    "punchline": "Because it was machine learning day"
+  },
+  {
+    "pun": "Q: How do programmers remove cockcroaches, houseflies and fleas from their homes?",
+    "punchline": "They debug them!"
   }
 ]
