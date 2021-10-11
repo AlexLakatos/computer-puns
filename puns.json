@@ -482,5 +482,9 @@
   {
     "pun": "Q: Why do the stories written by C programmers drag on forever?",
     "punchline": "A: Because they can’t write closures."
-  }
+  },
+  {
+    "pun": "Q: Do you like to hide vegetables?",
+    "punchline": "A: Yes, I have Java Beans!"
+  },
 ]
