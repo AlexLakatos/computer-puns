@@ -484,7 +484,11 @@
     "punchline": "A: Because they can’t write closures."
   },
   {
-    "pun": "Q: Why three SQL databases walk into a bar and leave immediately?",
-    "punchline": "A: They could not find a table."
+    "pun": "Q: Why don't Python developers go into the forest?",
+    "punchline": "A: They're afraid of the Mongoose!"
+  },
+  {
+    "pun": "Q: Why three SQL databases walk into a bar and then leave immediately?",
+    "punchline": "A: They could not find a table!"
   }
 ]
