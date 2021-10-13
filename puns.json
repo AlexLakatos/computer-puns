@@ -484,19 +484,15 @@
     "punchline": "A: Because they can’t write closures."
   },
   {
-    "pun": "Q: A bunch of programmers developed a fever and lost their sense of smell. Why?",
-    "punchline": "They caught Cloudvid :("
-  },
-  {
     "pun": "Q: What do lumberjacks and computer criminals have in common?",
-    "punchline": "They hack for a living"
+    "punchline": "They both hack for a living!"
   },
   {
-    "pun": "Q: Why do you only find computers in the classroom yesterday?",
-    "punchline": "Because it was machine learning day"
+    "pun": "Q: Why do you have computers in the classroom?",
+    "punchline": "Because they do machine learning now!"
   },
   {
-    "pun": "Q: How do programmers remove cockcroaches, houseflies and fleas from their homes?",
-    "punchline": "They debug them!"
+    "pun": "Q: How do you remove cockroaches, houseflies, and fleas from your home?",
+    "punchline": "You debug it!"
   }
 ]
