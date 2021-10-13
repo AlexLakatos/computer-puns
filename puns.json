@@ -477,11 +477,11 @@
   },
   {
     "pun": "Q: What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
-    "punchline": "A: A regular expression."
+    "punchline": "A: A regular expression!"
   },
   {
     "pun": "Q: Why do the stories written by C programmers drag on forever?",
-    "punchline": "A: Because they can’t write closures."
+    "punchline": "A: Because they can’t write closures!"
   },
   {
     "pun": "Q: What do lumberjacks and computer criminals have in common?",
@@ -495,7 +495,8 @@
     "pun": "Q: How do you remove cockroaches, houseflies, and fleas from your home?",
     "punchline": "You debug it!"
   },
-  {    "pun": "Q: Why don't Python developers go into the forest?",
+  {
+    "pun": "Q: Why don't Python developers go into the forest?",
     "punchline": "A: They're afraid of the Mongoose!"
   },
   {
