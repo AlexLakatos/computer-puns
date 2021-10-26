@@ -20,4 +20,4 @@ jobs:
           ${{ steps.pun.outputs.pun }}
           ${{ steps.pun.outputs.punchline }}
           
-          Or you can [ping me on Twitter](https://twitter.com/lakatos88), that tends to speed up this process!
+          Or you can [ping me on Twitter](https://twitter.com/avolakatos), that tends to speed up this process!
