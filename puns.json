@@ -485,15 +485,15 @@
   },
   {
     "pun": "Q: What do lumberjacks and computer criminals have in common?",
-    "punchline": "They both hack for a living!"
+    "punchline": "A: They both hack for a living!"
   },
   {
     "pun": "Q: Why do you have computers in the classroom?",
-    "punchline": "Because they do machine learning now!"
+    "punchline": "A: Because they do machine learning now!"
   },
   {
     "pun": "Q: How do you remove cockroaches, houseflies, and fleas from your home?",
-    "punchline": "You debug it!"
+    "punchline": "A: You debug it!"
   },
   {
     "pun": "Q: Why don't Python developers go into the forest?",
@@ -512,7 +512,7 @@
     "punchline": "A: They have great algorithm."
   },
   {
-    "pun": "How much do you know about programming?",
+    "pun": "Q: How much do you know about programming?",
     "punchline": "A: A little bit!"
   }
 ]
