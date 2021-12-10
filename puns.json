@@ -509,7 +509,7 @@
   },
   {
     "pun": "Q: Why are programmers so good at dancing?",
-    "punchline": "A: They have great algorithm."
+    "punchline": "A: They have great algorithm!"
   },
   {
     "pun": "Q: How much do you know about programming?",
@@ -521,18 +521,14 @@
   },
   {
     "pun": "Q: Do you know why ARM chips dont get used much for servers?",
-    "punchline": "A: No one wants a server-ed ARM"
-  },
-  {
-    "pun": "Q: I've got a joke about 3D printing",
-    "punchline": "A: I'll let you know when I've finished making it"
+    "punchline": "A: No one wants a server-ed ARM!"
   },
   {
     "pun": "Q: How do you make a 4D printer?",
-    "punchline": "A: Just take a 3D printer and give it some time"
+    "punchline": "A: Just take a 3D printer and give it some time!"
   },
   {
     "pun": "Q: When an AI goes camping how does it sleep?",
-    "punchline": "A: In-tents"
+    "punchline": "A: In-tents!"
   }
 ]
