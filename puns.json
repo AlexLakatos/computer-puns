@@ -514,5 +514,13 @@
   {
     "pun": "Q: How much do you know about programming?",
     "punchline": "A: A little bit!"
-  }
+  }, 
+  {
+    "pun": "Q: Why did the vulnerability get tired?",
+    "punchline": "A: Because it ran-some-where!"
+  }, 
+  {
+    "pun": "Q: Do you know why ARM chips dont get used much for servers?",
+    "punchline": "A: No one wants a server-ed ARM"
+  }, 
 ]
