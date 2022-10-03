@@ -17,7 +17,7 @@
   },
   {
     "pun": "Q: Why did the computer spy quit?",
-    "punchline": "A: They couldn’t hack it anymore!"
+    "punchline": "A: They couldn't hack it anymore!"
   },
   {
     "pun": "Q: What did the motherboard say to the new software?",
@@ -128,7 +128,7 @@
     "punchline": "A: It takes screenshots!"
   },
   {
-    "pun": "Q: Why do app developer's have such high insurance rates?",
+    "pun": "Q: Why do app developers have such high insurance rates?",
     "punchline": "A: They're always crashing!"
   },
   {
@@ -144,7 +144,7 @@
     "punchline": "A: They really came out of their shell!"
   },
   {
-    "pun": "Q: Why are Java programmers front yards so untidy?",
+    "pun": "Q: Why are Java programmers' front yards so untidy?",
     "punchline": "A: Because they are always waiting on garbage collection!"
   },
   {
@@ -192,7 +192,7 @@
     "punchline": "A: At least 8, or else the fish won't byte!"
   },
   {
-    "pun": "Q: Why were the Javascript plumbers delayed?",
+    "pun": "Q: Why were the JavaScript plumbers delayed?",
     "punchline": "A: Because they had to await async!"
   },
   {
@@ -220,7 +220,7 @@
     "punchline": "A: To get to the other slide!"
   },
   {
-    "pun": "Q: What sits on your shoulder and says 'Pieces of 7! Pieces of 7!'?",
+    "pun": "Q: What sits on your shoulder and says 'Pieces of 9! Pieces of 9!'?",
     "punchline": "A: A Parroty Error!"
   },
   {
@@ -237,7 +237,7 @@
   },
   {
     "pun": "Q: How does the JavaScript function travel?",
-    "punchline": "A: It fly's first-class!"
+    "punchline": "A: It flys first-class!"
   },
   {
     "pun": "Q: What is a computer's favorite instrument?",
@@ -300,7 +300,7 @@
     "punchline": "A: You'd think it was R, but their first love is the C."
   },
   {
-    "pun": "Q: What is the way of object oriented to become wealthy?",
+    "pun": "Q: What is the object oriented way to become wealthy?",
     "punchline": "A: Inheritance!"
   },
   {
@@ -316,7 +316,7 @@
     "punchline": "A: It was a solid state drive!"
   },
   {
-    "pun": "Q: What do Javascript programmers like to order at the coffeeshop?",
+    "pun": "Q: What do JavaScript programmers like to order at the coffeeshop?",
     "punchline": "A: Mocha, Chai and a cup of Expresso!"
   },
   {
@@ -332,7 +332,7 @@
     "punchline": "A: The Anaconda!"
   },
   {
-    "pun": "Q: Why did a couple of programmers go to the farmer’s market?",
+    "pun": "Q: Why did a couple of programmers go to the farmer's market?",
     "punchline": "A: They went there to do pear programming!"
   },
   {
@@ -348,7 +348,7 @@
     "punchline": "A: It lost its contacts!"
   },
   {
-    "pun": "Q: What’s an aliens favorite key?",
+    "pun": "Q: What's an aliens favorite key?",
     "punchline": "A: The space bar!"
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "pun": "Q: Why won't they let the programmer write any loops with iterators?",
-    "punchline": "A: Because the programmer is called is Obi-Wan!"
+    "punchline": "A: Because the programmer is called Obi-Wan!"
   },
   {
     "pun": "Q: What did the programmer say when they couldn't debug their code?",
@@ -388,7 +388,7 @@
     "punchline": "A: “Stop it! It hertz so much!”"
   },
   {
-    "pun": "Q: What's a programmers' favorite dessert?",
+    "pun": "Q: What's a programmer's favorite dessert?",
     "punchline": "A: Raspberry Pi!"
   },
   {
@@ -477,14 +477,58 @@
   },
   {
     "pun": "Q: What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
-    "punchline": "A: A regular expression."
+    "punchline": "A: A regular expression!"
   },
   {
     "pun": "Q: Why do the stories written by C programmers drag on forever?",
-    "punchline": "A: Because they can’t write closures."
+    "punchline": "A: Because they can’t write closures!"
   },
   {
-    "pun": "Q: Why three SQL databases walk into a bar and leave immediately?",
-    "punchline": "A: They could not find a table."
+    "pun": "Q: What do lumberjacks and computer criminals have in common?",
+    "punchline": "A: They both hack for a living!"
+  },
+  {
+    "pun": "Q: Why do you have computers in the classroom?",
+    "punchline": "A: Because they do machine learning now!"
+  },
+  {
+    "pun": "Q: How do you remove cockroaches, houseflies, and fleas from your home?",
+    "punchline": "A: You debug it!"
+  },
+  {
+    "pun": "Q: Why don't Python developers go into the forest?",
+    "punchline": "A: They're afraid of the Mongoose!"
+  },
+  {
+    "pun": "Q: Why did three SQL databases walk into a bar and then leave immediately?",
+    "punchline": "A: They could not find a table!"
+  },
+  {
+    "pun": "Q: Where did Noah put all the bees?",
+    "punchline": "A: In the Ark hives!"
+  },
+  {
+    "pun": "Q: Why are programmers so good at dancing?",
+    "punchline": "A: They have great algorithm."
+  },
+  {
+    "pun": "Q: How much do you know about programming?",
+    "punchline": "A: A little bit!"
+  },
+  {
+    "pun": "Q: Why did the vulnerability get tired?",
+    "punchline": "A: Because it ran-some-where!"
+  },
+  {
+    "pun": "Q: Do you know why ARM chips dont get used much for servers?",
+    "punchline": "A: No one wants a server-ed ARM"
+  },
+  {
+    "pun": "Q: Why did the programmer take their broken laptop to the nearest tree?",
+    "punchline": "A: Because they needed a root user!"
+  },
+  {
+    "pun": "Q: Why do computer users hunch over so much?",
+    "punchline": "A: Because they're making back-ups!"
   }
 ]

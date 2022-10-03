@@ -1,6 +1,6 @@
 {
   "name": "puns.dev",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.",
   "main": "index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "puns",
     "list"
   ],
-  "author": "Alex Lakatos <https://twitter.com/lakatos88>",
+  "author": "Alex Lakatos <https://twitter.com/avolakatos>",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/AlexLakatos/computer-puns/issues"
