@@ -534,5 +534,9 @@
   {
     "pun": "Q: What do you call this: ['hip','hip'] ?",
     "punchline": "A: hip hip array!"
+  },
+  {
+    "pun": "Q: What do you call a computer mouse that swears a lot?",
+    "punchline": "A: A cursor!"
   }
 ]
