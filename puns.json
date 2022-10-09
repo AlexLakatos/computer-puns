@@ -534,5 +534,25 @@
   {
     "pun": "Q: What do you call this: ['hip','hip'] ?",
     "punchline": "A: hip hip array!"
+  },
+  {
+    "pun": "There are 10 kinds of people...",
+    "punchline": "1. Those who can count in binary, and 2. Those who can't"
+  },
+  {
+    "pun": "What did one wizard say to the other?",
+    "punchline": "'Write in C'"
+  },
+  {
+    "pun": "What is a snake's favourite language?",
+    "punchline": "Python!"
+  },
+  {
+    "pun": "What did the C++ programmer say to the C programmer?",
+    "punchline": "Think objectively!"
+  },
+  {
+    "pun": "When there's bugs in your code, and you don't know why, who you gonna call?",
+    "punchline": "Debug Ducky!"
   }
 ]
