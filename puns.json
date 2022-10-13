@@ -534,5 +534,9 @@
   {
     "pun": "Q: What do you call this: ['hip','hip'] ?",
     "punchline": "A: hip hip array!"
+  },
+  {
+    "pun": "I don't really like computer puns.",
+    "punchline": "Okay, maybe I like them just a bit."
   }
 ]
